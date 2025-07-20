@@ -1,5 +1,5 @@
 #Program Name: Floor2ClassRoom class for Porter Maps
-#Program Authors: Anuva Nath, Sulagna Saha, Safia Safia
+#Program Authors: Safia Safia
 #Date: January 15, 2025
 #Program Description: This class is a subclass that can be
 #used to create an object of a room in floor2. It has two
