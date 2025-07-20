@@ -1,5 +1,5 @@
 # Name       : Constants for Porter Maps
-# Program Authors: Anuva Nath, Sulagna Saha, Safia Safia
+# Program Authors: Safia Safia
 # Date: January 15, 2025
 # Description: This contains the constants used in the Porter Maps Application
 
