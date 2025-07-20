@@ -1,5 +1,5 @@
 #Program Name: Map class for Porter Maps
-#Program Authors: Anuva Nath, Sulagna Saha, Safia Safia
+#Program Authors: Safia Safia
 #Date: January 15, 2025
 #Program Description: This class creates a map using the classes
 #Floor1ClassRoom and Floor2ClassRoom, it makes objects for the stairs and
