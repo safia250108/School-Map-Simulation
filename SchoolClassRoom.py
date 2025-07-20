@@ -1,5 +1,5 @@
 #Program Name: SchoolClassRoom class for Porter Maps
-#Program Authors: Anuva Nath, Sulagna Saha, Safia Safia
+#Program Authors: Safia Safia
 #Date: January 15, 2025
 #Program Description: This class is a base class that can be
 #used to create an object of a room in the school. It has two
